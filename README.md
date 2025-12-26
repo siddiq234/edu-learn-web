@@ -8,7 +8,7 @@ It showcases an online learning platform offering technology-focused courses wit
 ## 🚀 Live Demo
 (Deploy on Vercel and add link here)
 
-https://your-project-name.vercel.app
+edu-learn-web-j846-dhey7ojvj-siddiqs-projects-88f30ac0.vercel.app
 
 ---
 
@@ -60,4 +60,5 @@ Computer Science Graduate | Aspiring Full-Stack Developer
 
 ## 📄 License
 Free to use for learning and personal projects.
+
 
